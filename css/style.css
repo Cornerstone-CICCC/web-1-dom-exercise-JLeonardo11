@@ -48,10 +48,21 @@ button {
   border-radius: 10px;
 }
 
+.output1{
+  color: red;
+}
+
+.output4{
+  color:red;
+}
+
 input[type="text"] {
   font-size: 20px;
 }
 
 .small-text {
   font-size: 10px;
+}
+.small-text1 {
+  font-size: 20px;
 }
